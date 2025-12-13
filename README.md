@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhgrazier&label=Profile%20views&color=0e75b6&style=flat" alt="jhgrazier" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhgrazier" alt="jhgrazier" /></a> </p>
+<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=jhgrazier)](https://github.com/ryo-ma/github-profile-trophy)">
 
 - All of my projects are available at [https://github.com/jhgrazier](https://github.com/jhgrazier)
 
